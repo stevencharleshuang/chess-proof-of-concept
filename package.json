@@ -1,0 +1,23 @@
+{
+  "name": "chess-proof-of-concept",
+  "version": "1.0.0",
+  "description": "Building chess with pure javascript",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevencharleshuang/chess-proof-of-concept.git"
+  },
+  "author": "Steven Charles Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevencharleshuang/chess-proof-of-concept/issues"
+  },
+  "homepage": "https://github.com/stevencharleshuang/chess-proof-of-concept#readme"
+}
